@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                // ✅ Better than ES2016 for modern Node features
+    "module": "commonjs",
+    "rootDir": "./src",                // ✅ Where your TypeScript source lives
+    "outDir": "./dist",                // ✅ Where compiled JS will go if you build
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
