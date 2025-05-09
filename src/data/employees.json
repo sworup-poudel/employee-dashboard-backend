@@ -19,12 +19,5 @@
     "lastName": "Johnson",
     "email": "alice.johnson@example.com",
     "department": "Finance"
-  },
-  {
-    "id": 4,
-    "firstName": "Sworup4",
-    "lastName": "Poudel2",
-    "email": "sworup2.poudel@gmail.com",
-    "department": "Dot NET2"
   }
 ]
